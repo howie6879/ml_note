@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.douban.com/simple/"
+
+[packages]
+numpy = "*"
+
+[dev-packages]
+black = "*"
+isort = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.6"
