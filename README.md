@@ -2,7 +2,7 @@
 
 > 本项目主要记录个人学习机器学习过程中的一些读书笔记
 
-资源很多，也不必都要看，就那几本好好看完就差不多了，主要还是实践，在实践中学习也是不错的方式；这里推荐我整的一个机器学习资源聚合项目[mlhub123](https://github.com/howie6879/mlhub123)。
+资源很多，也不必都要看，就那几本好好看完就差不多了，主要还是实践，在实践中学习也是不错的方式，之前有弄一个机器学习资源相关的开源项目[mlhub123](https://github.com/howie6879/mlhub123)，大家有兴趣可以看看。
 
 ## [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
