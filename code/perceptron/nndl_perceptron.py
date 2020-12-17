@@ -34,7 +34,7 @@ class Perceptron:
         :param learn_nums: 学习多少次
         :param rate: 学习率
         """
-        for i in range(learn_nums):
+        for _ in range(learn_nums):
             for index, input_vector in enumerate(input_vectors):
                 label = labels[index]
                 output = self.predict(input_vector)
@@ -45,6 +45,10 @@ class Perceptron:
         return self
 
     def predict(self, input_vector):
+        """predict.
+        开始预测
+        :param input_vector:
+        """
         if isinstance(input_vector, list):
             input_vector = np.array(input_vector)
         return self.act_func(sum(self.w * input_vector) + self.b)

@@ -1,16 +1,17 @@
 # ml_note
 
-> 本项目主要记录个人学习机器学习过程中的一些读书笔记
+> 本项目主要记录个人在机器学习领域的一些读书笔记，我主要从事的是游戏领域的风控相关工作，有兴趣可以一起交流。
 
-资源很多，也不必都要看，就那几本好好看完就差不多了，主要还是实践，在实践中学习也是不错的方式，之前有弄一个机器学习资源相关的开源项目[mlhub123](https://github.com/howie6879/mlhub123)，大家有兴趣可以看看。
+资源很多，其实也不必都要看。如果是工作角度思考的话，主要还是实践为主，**做中学**是比较好的方式。
 
-## [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+## ✨ [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-科学家写的书，深度学习这块我主要是看这本书入门的，写得很不错，国内也有翻译的：
+一位量子物理学家、科学作家写的书，深度学习这块我主要是看这本书入门的，写得很不错，国内也有翻译的：
+
 - [开源nndl中文版](https://github.com/zhanggyb/nndl)：可点[这里](./.files/书籍/nndl-ebook.pdf)下载
 - [深入浅出神经网络与深度学习-国内译版](https://www.ituring.com.cn/book/2789)
 
-笔记的话实际上每章都可以单独来看，我主要是提取了书中的重点以及对不清楚的地方结合网上的资料进行了扩展，最终形成了一片阅读笔记。
+笔记的话实际上每章都可以单独来看，我主要是提取了书中的重点以及对不清楚的地方结合网上的资料进行了扩展，最终形成了一份阅读笔记。
 
 <h1 align=center>
 <img src="https://raw.githubusercontent.com/howie6879/oss/master/uPic/G50gsl.jpg" width='120px' height='160px'>
@@ -25,9 +26,9 @@
 - [ ] [深度神经⽹络为何很难训练]()
 - [ ] [深度学习]()
 
-## 统计学习方法
+## ✍️ 统计学习方法
 
-李航老师的书，现在已经出了第二版，个人觉得是必读的，`Github`上也有很多的代码开源实现，不过说实话不适合纯小白干看这个入门(可能是我菜哈哈)。
+李航老师的书，现在已经出了第二版，个人觉得是必读的，`Github`上也有很多的代码开源实现，不过说实话不适合纯小白看这个入门(可能是我菜哈哈)。
 
 <h1 align=center>
 <img src="https://raw.githubusercontent.com/howie6879/oss/master/uPic/VB7XHu.jpg" width='120px' height='160px'>
@@ -44,3 +45,7 @@
 
 - [x] [神经网络基础](./附录/神经网络基础.md)
 - [x] [【译】如何用Python创建一个简单的神经网络](./附录/【译】如何用Python创建一个简单的神经网络.md)
+
+## 说明
+
+我之前有开源一个机器学习资源相关的项目[mlhub123](https://github.com/howie6879/mlhub123)，大家有兴趣可以看看。
