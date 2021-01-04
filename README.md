@@ -48,4 +48,4 @@
 
 ## 说明
 
-我之前有开源一个机器学习资源相关的项目[mlhub123](https://github.com/howie6879/mlhub123)，大家有兴趣可以看看。
+对于学习资源的获取，我之前有开源一个机器学习资源相关的项目[mlhub123](https://github.com/howie6879/mlhub123)，大家有兴趣可以看看。
