@@ -48,4 +48,5 @@
 
 ## 说明
 
-对于学习资源的获取，我之前有开源一个机器学习资源相关的项目[mlhub123](https://github.com/howie6879/mlhub123)，大家有兴趣可以看看。
+- 如果公式无法展示，请安装插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)或者在我博客或者公众号阅读
+- 对于学习资源的获取，我之前有开源一个机器学习资源相关的项目[mlhub123](https://github.com/howie6879/mlhub123)，有兴趣可以看看
